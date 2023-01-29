@@ -1,0 +1,21 @@
+.logo{
+    display:flex;
+    position:relative;
+    width: 10px;
+    height:100px; 
+  
+  }
+.avatar{
+    display:flex;
+    position:relative;
+    width:100px;
+    height:100px;
+    left:1410px;
+    
+
+}
+.weather{
+  display:flex;
+  position:relative;
+
+}
